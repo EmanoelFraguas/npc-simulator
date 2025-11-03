@@ -1,0 +1,76 @@
+{
+    "c2array": true,
+    "size": [
+        6,
+        3,
+        1
+    ],
+    "data": [
+        [
+            [
+                "health_potion"
+            ],
+            [
+                "mana_potion"
+            ],
+            [
+                "poison_potion"
+            ]
+        ],
+        [
+            [
+                "Health Potion"
+            ],
+            [
+                "Mana Potion"
+            ],
+            [
+                "Poison Potion"
+            ]
+        ],
+        [
+            [
+                "leaves"
+            ],
+            [
+                "water_drop"
+            ],
+            [
+                "fire_dust"
+            ]
+        ],
+        [
+            [
+                "leaves"
+            ],
+            [
+                "water_drop"
+            ],
+            [
+                "fire_dust"
+            ]
+        ],
+        [
+            [
+                "fire_dust"
+            ],
+            [
+                "leaves"
+            ],
+            [
+                "water_drop"
+            ]
+        ],
+        [
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ]
+        ]
+    ]
+}
